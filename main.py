@@ -1,4 +1,4 @@
-import numpy as np  # 导入头文件
+import numpy as np  # 导入库
 import matplotlib.pyplot as plt
 import matplotlib.pylab as pylab
 
